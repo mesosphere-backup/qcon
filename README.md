@@ -64,7 +64,9 @@ Next, try running some example queries:
 
 ## Exercise 2: Install Wordpress
 
-Head over to the [Wordpress example repo](https://github.com/dcos/examples/tree/master/1.8/wordpress) and get MySQL and Wordpress up and running in your cluster.
+Head over to the [Wordpress example repo](https://github.com/dcos/examples/tree/modified-wordpress/1.8/wordpress) and get MySQL and Wordpress up and running in your cluster.
+
+Note that you do not need to install Marathon-lb. We have done this already for you!
 
 ## Exercise 3:  Set up a GitHub repository
 
